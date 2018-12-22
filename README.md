@@ -4,10 +4,10 @@ This project consists of experiment in compiling Android apps, (command line onl
 We'll start with a simple Hello-World app (of course), and then add more (and for that, we'll need to add the relevant part of the runtime to the OCaml library).
 
 ## Java Version
-Using classic Android tools, such as aapt, dex... This version is used as a reference, and taken from (https://www.hanshq.net/command-line-android.html).
+Using classic Android tools, such as `javac`, `aapt`, `dex`, ... This version is used as a reference, and taken from (https://www.hanshq.net/command-line-android.html).
 
 ## Kotlin Version
-WIP
+Very similar to the Java version, except using `kotlinc` instead of `javac`.
 
 ## OCaml Version
 WIP
